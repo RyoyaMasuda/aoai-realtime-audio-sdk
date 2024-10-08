@@ -1,5 +1,5 @@
 # Azure OpenAI GPT-4o Audio and /realtime: Public Preview Documentation
-adaptation
+aaa<br>
 Welcome to the Public Preview for Azure OpenAI `/realtime` using `gpt-4o-realtime-preview`! This repository provides documentation, standalone libraries, and sample code for using `/realtime` -- applicable to both Azure OpenAI and standard OpenAI v1 endpoint use.
 
 ## Overview: what's /realtime?
